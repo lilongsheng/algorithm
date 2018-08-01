@@ -31,6 +31,8 @@ public class BubbleSort1 {
 
     /**
      * 冒泡排序  动态图地址 http://www.atool.org/sort.php?rqnglq=9h8ac3
+     * 时间复杂度：该排序最怀复杂度为O(n^2)、最好为O(n)
+     * 用图：可以用户检查是否有序
      * 默认从小到大排序 泡泡每次到最后一个数字 需要注意的是外层循环次数 n 如果是长度那么为n-1 ,边界地方要有等于号
      * @param array 数字数组
      * @param n 数组长度
