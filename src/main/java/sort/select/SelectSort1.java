@@ -29,10 +29,12 @@ public class SelectSort1 {
     }
 
     /**
-     * 冒泡排序  动态图地址 http://www.atool.org/sort.php?rqnglq=9h8ac3
+     * 选择排序  动态图地址 http://www.atool.org/sort.php?rqnglq=9h8ac3
      * 时间复杂度：该排序最怀复杂度为O(n^2)、最好为O(n)
      * 用图：常用语数值大的排序
      * 默认从小到大排序 每次外循环会找到一个最小的元素，然后同当次第一个元素交换
+     * 优点：属于基础排序
+     * 缺点：
      * @param array 数字数组
      * @param n 数组长度
      * @return 排序后的数组
