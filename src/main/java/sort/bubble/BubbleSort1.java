@@ -30,7 +30,7 @@ public class BubbleSort1 {
     }
 
     /**
-     * 冒泡排序  动态图地址 http://www.atool.org/sort.php?rqnglq=9h8ac3
+     * 冒泡排序    动态图地址 http://www.atool.org/sort.php?rqnglq=9h8ac3
      * 时间复杂度：该排序最怀复杂度为O(n^2)、最好为O(n)
      * 用图：可以用户检查是否有序
      * 优点：分治思想（一分到底） 简单 容易理解 属于基础排序
