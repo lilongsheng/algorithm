@@ -1,4 +1,4 @@
-package sort.bubble;
+package main.java.sort.bubble;
 
 /**
  * Created by zhanggd on 2018/8/11.
@@ -26,9 +26,10 @@ public class QuickSort {
      * 优化：在于优化找轴值，比如随机化快排 在于每次随机找轴值
      * 默认从小到大排序
      * 思路：首先找一个轴值进行元素划分，通常取半将数据分为两部分小于轴值和大于轴值，递归对划分后的两部分继续找轴值进行划分
+     *
      * @param arrayData 数字数组
-     * @param left 数组长度
-     * @param right 数组长度
+     * @param left      数组长度
+     * @param right     数组长度
      * @return 排序后的数组
      */
     public void quickSort(int[] arrayData, int left, int right) {
