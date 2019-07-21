@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sqyc</groupId>
+	<groupId>Java.Architecture</groupId>
 
 	<properties>
 		<spring.version>4.3.8.RELEASE</spring.version> <!--spring版本-->
@@ -123,8 +123,8 @@
 
 	</dependencies>
 
-	<name>algorithm</name>
-	<description>algorithm project for Spring Boot</description>
+	<name>JavaArchitecture</name>
+	<description>JavaArchitecture project for Spring Boot</description>
 
 
 </project>

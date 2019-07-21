@@ -1,5 +1,7 @@
 package main.java.architecture;
 
+
+
 public class WarningPunishHander extends AbstractPunishHander {
 
     @Override
