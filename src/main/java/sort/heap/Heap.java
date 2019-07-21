@@ -1,4 +1,4 @@
-package main.java.sort.heap;
+package sort.heap;
 
 public class Heap {
 

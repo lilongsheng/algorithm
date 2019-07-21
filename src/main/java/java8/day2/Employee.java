@@ -1,6 +1,6 @@
-package main.java.java8.day2;
+package java8.day2;
 
-import main.java.java8.Status;
+import java8.Status;
 
 public class Employee {
 

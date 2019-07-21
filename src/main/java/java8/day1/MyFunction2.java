@@ -1,4 +1,4 @@
-package main.java.java8.day1;
+package java8.day1;
 
 /**
  * 采用声明式接口方式

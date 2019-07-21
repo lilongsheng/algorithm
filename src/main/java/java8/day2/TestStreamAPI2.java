@@ -1,10 +1,10 @@
-package main.java.java8.day2;
+package java8.day2;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Stream;
-import main.java.java8.Status;
+import java8.Status;
 
 /*
  * 一、 Stream 的操作步骤

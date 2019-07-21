@@ -1,4 +1,4 @@
-package main.java.spring.ioc;
+package spring.ioc;
 
 public class SayService {
 

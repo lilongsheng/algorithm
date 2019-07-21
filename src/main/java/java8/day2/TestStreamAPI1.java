@@ -1,4 +1,4 @@
-package main.java.java8.day2;
+package java8.day2;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

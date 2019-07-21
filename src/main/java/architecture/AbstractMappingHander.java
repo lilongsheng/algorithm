@@ -1,4 +1,4 @@
-package main.java.architecture;
+package architecture;
 
 
 public abstract class AbstractMappingHander implements IMappingHander{

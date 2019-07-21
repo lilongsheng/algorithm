@@ -1,4 +1,4 @@
-package main.java.java8;
+package java8;
 
 /**
  * 公用 是否过滤员工

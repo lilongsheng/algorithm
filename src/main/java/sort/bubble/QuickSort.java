@@ -1,4 +1,4 @@
-package main.java.sort.bubble;
+package sort.bubble;
 
 /**
  * Created by zhanggd on 2018/8/11.

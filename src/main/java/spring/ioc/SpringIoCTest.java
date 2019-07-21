@@ -1,4 +1,4 @@
-package main.java.spring.ioc;
+package spring.ioc;
 
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
@@ -11,7 +11,7 @@ public class SpringIoCTest {
     public void test1() {
 
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("bean.xml");
-        SayService sayService = (SayService) applicationContext.getBean("test");
+        spring.ioc.SayService sayService = (spring.ioc.SayService) applicationContext.getBean("test");
         sayService.say();
     }
 }

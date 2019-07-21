@@ -1,9 +1,9 @@
-package main.java.java8.practice;
+package java8.practice;
 
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import main.java.java8.day2.Employee;
+import java8.day2.Employee;
 
 import java.io.PrintStream;
 import java.util.Comparator;

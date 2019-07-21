@@ -1,6 +1,6 @@
-package main.java.java8.day1;
+package java8.day1;
 
-import main.java.java8.day2.Employee;
+import java8.day2.Employee;
 
 import java.util.Arrays;
 import java.util.Collections;

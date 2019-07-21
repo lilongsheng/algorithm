@@ -1,7 +1,7 @@
-package main.java.java8.practice;
+package java8.practice;
 
 
-import main.java.java8.day2.Employee;
+import java8.day2.Employee;
 
 import java.util.ArrayList;
 import java.util.Arrays;

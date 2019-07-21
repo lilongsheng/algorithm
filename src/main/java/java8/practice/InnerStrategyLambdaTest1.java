@@ -1,10 +1,10 @@
-package main.java.java8.practice;
+package java8.practice;
 
 
-import main.java.java8.FilterEmployeeForAge;
-import main.java.java8.FilterEmployeeForSalary;
-import main.java.java8.MyPredicate;
-import main.java.java8.day2.Employee;
+import java8.FilterEmployeeForAge;
+import java8.FilterEmployeeForSalary;
+import java8.MyPredicate;
+import java8.day2.Employee;
 
 import java.util.*;
 

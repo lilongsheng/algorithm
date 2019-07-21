@@ -1,4 +1,4 @@
-package main.java.java8.day1;
+package java8.day1;
 
 @FunctionalInterface
 public interface MyFunction {

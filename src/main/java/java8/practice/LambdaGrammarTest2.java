@@ -1,7 +1,7 @@
-package main.java.java8.practice;
+package java8.practice;
 
 
-import main.java.java8.MyFun;
+import java8.MyFun;
 
 import java.util.*;
 import java.util.function.Consumer;

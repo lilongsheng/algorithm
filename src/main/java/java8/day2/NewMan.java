@@ -1,4 +1,4 @@
-package main.java.java8.day2;
+package java8.day2;
 
 import java.util.Optional;
 

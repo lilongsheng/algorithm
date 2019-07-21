@@ -1,4 +1,4 @@
-package main.java.architecture;
+package architecture;
 
 
 public interface IMappingHander {

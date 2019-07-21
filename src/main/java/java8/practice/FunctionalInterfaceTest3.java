@@ -1,4 +1,4 @@
-package main.java.java8.practice;
+package java8.practice;
 
 
 import java.util.ArrayList;
