@@ -1,7 +1,7 @@
 package main.java.architecture;
 
 
-public interface IPunishHander {
+public interface IMappingHander {
 
     String hander(String name);
 }
