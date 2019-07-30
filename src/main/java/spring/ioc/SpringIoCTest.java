@@ -7,6 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class SpringIoCTest {
 
 
+
     @Test
     public void test1() {
 

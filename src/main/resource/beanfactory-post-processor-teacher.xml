@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="teacher" class="spring.ioc.Test_BeanPostProcessor.Teacher">
+        <property name="name" value="李龙生"/>
+        <property name="age" value="32"/>
+        <property name="smoking" value="true"/>
+        <property name="language" value="java"/>
+    </bean>
+
+    <bean id="changeTeacher" class="spring.ioc.Test_BeanPostProcessor.ChangeTeacherBeanFactoryPostProcessor"/>
+</beans>
