@@ -1,4 +1,4 @@
-package sort.bubble;
+package algorithm.sort.bubble;
 
 /**
  * Created by zhanggd on 2018/8/11.

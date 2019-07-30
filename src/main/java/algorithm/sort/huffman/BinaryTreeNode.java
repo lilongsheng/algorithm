@@ -1,4 +1,4 @@
-package sort.huffman;
+package algorithm.sort.huffman;
 
 public class BinaryTreeNode {
 

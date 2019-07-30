@@ -1,4 +1,4 @@
-package sort.huffman;
+package algorithm.sort.huffman;
 
 import java.util.Comparator;
 import java.util.LinkedList;

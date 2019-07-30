@@ -1,4 +1,4 @@
-package sort.heap;
+package algorithm.sort.heap;
 
 public class Heap {
 
@@ -174,7 +174,7 @@ public class Heap {
      * @param A
      * @param n
      */
-    void BuildHeap(Heap h,int A[],int n){
+    void BuildHeap(Heap h, int A[], int n){
         if (h == null)
             return;
         while (n > this.capacity){
